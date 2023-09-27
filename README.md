@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 
+I am a software engineer with three years of software industry experience 😊. During this time, I've primarily specialized in back-end development using Python, Go, and JavaScript. Additionally, I possess proficiency in front-end development with JavaScript and React 🚀.
 
 <!--
-**SarkiMudboy/SarkiMudboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on building tools for businesses and developers alike including various personal projects improving my skills along the way!.
+- 🌱 I’m currently learning golang 👾 and PyTorch 🔥
+- 👯 I’m looking to collaborate on building products and open source projects
+- 💬 Open to discussions on sofware engineering likewise I am a learner always open to learn topics beyond my scope
+- 📫 How to reach me: 
+      ✉️ email - sarikiihima44@gmail.com
+      🔗 linkedin - www.linkedin.com/in/sarki-ihima-620665261
+- ⚡ Fun fact: I love coding and gaming 🎮
 -->
