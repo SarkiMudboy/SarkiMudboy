@@ -10,4 +10,4 @@ I am a software engineer with three years of software industry experience 😊. 
       🔗 linkedin - www.linkedin.com/in/sarki-ihima-620665261
 - ⚡ Fun fact: I love coding and gaming 🎮
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarkiMudboy)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarkiMudboy&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
