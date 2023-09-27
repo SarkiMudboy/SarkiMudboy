@@ -11,3 +11,4 @@ I am a software engineer with three years of software industry experience 😊. 
 - ⚡ Fun fact: I love coding and gaming 🎮
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarkiMudboy&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarkiMudboy&layout=compact)
