@@ -1,7 +1,6 @@
 ### Hi there 👋 
 I am a software engineer with three years of software industry experience 😊. During this time, I've primarily specialized in back-end development using Python, Go, and JavaScript. Additionally, I possess proficiency in front-end development with JavaScript and React 🚀.
 
-<!--
 - 🔭 I’m currently working on building tools for businesses and developers alike including various personal projects improving my skills along the way!.
 - 🌱 I’m currently learning golang 👾 and PyTorch 🔥
 - 👯 I’m looking to collaborate on building products and open source projects
@@ -10,4 +9,4 @@ I am a software engineer with three years of software industry experience 😊. 
       ✉️ email - sarikiihima44@gmail.com
       🔗 linkedin - www.linkedin.com/in/sarki-ihima-620665261
 - ⚡ Fun fact: I love coding and gaming 🎮
--->
+
