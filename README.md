@@ -17,7 +17,7 @@
 <hr>
 
 - 🌱 I’m currently learning **[Computer Architecture, gRPC Microservices, Data Structures And Algorithms](https://github.com/SarkiMudboy/learning-notes)**
-- 💬 If you are interested in contributing or just want to ask me any question related to my projects, You can! [here](https://github.com/SarkiMudboy/SarkiMudboy/issues)**
+- 💬 If you are interested in contributing or just want to ask me any question related to my projects, You can! **[here](https://github.com/SarkiMudboy/SarkiMudboy/issues)**
 
 <br>
 
