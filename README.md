@@ -34,3 +34,14 @@
 </div>
 
 <hr>
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=golang,python,ts,nodejs,react,nextjs,docker,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,vue,redux,d3,git,postman,figma" />
+</p>
+
+<hr>
