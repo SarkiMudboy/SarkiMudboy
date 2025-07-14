@@ -1,2 +1,2 @@
-![20241105_141748](https://github.com/user-attachments/assets/ade6cc80-858f-4aa3-85d3-8759455c0f5b)
+<img src="https://github.com/{SarkiMudboy}/SarkiMudboy/blob/main/20241105_141748.jpg" alt="Banner of a quote I like" height="200">
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
